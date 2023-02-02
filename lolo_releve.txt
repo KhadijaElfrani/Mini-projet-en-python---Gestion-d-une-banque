@@ -1,0 +1,5 @@
+Virement envoye en faveur de koko     -60
+Debit sous le motif : Achat H&M    -15
+Debit sous le motif : Menu Macdo    -10
+Credit sous le motif : VERSEMENT ESPECES    +200
+Virement recu de la part de koko     +80

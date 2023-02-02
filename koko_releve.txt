@@ -1,0 +1,11 @@
+Debit sous le motif : achat H&M    -15
+Virement recu de la part de lolo     +60
+Credit sous le motif : remboursement    +10
+Debit sous le motif : menu KFC    -5
+Credit sous le motif : VERSEMENT ESPECES    +50
+Virement envoye en faveur de lolo     -80
+Debit sous le motif : achat H&M    -20
+Debit sous le motif : achat pull    -10
+Credit sous le motif : VERSEMENT ESPECES    +10
+Debit sous le motif : KFC    -37
+Debit sous le motif : achat    -20
